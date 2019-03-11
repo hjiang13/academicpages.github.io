@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hailong Jiang / Site Title"
 title_separator          : "-"
-name                     : &name "Hailong Jiang"
+name                     : &name "Hailong Jiang homepage"
 description              : &description "personal description"
 url                      : https://hailongjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
